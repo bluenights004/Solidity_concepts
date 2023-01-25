@@ -12,5 +12,5 @@ When you call the function add with different number of parameters, the smart co
 
 This is an example of function overloading, where multiple functions have the same name but different parameter lists.
 
-*Remix illustration below:*
+*Remix illustration below* *
 ![image info](image.png)
